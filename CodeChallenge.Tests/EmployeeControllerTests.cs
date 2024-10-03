@@ -132,5 +132,13 @@ namespace CodeCodeChallenge.Tests.Integration
             // Assert
             Assert.AreEqual(HttpStatusCode.NotFound, response.StatusCode);
         }
+
+        /**
+         * Tests to consider:
+         * Case: More than 1 | Result: More than 1
+         * Case: No reports | Result: 0
+         * Case: Negative | Result: There shouldn't be a negative
+         * Case: Compensation | Result: Proper date, salary, employee
+         */
     }
 }

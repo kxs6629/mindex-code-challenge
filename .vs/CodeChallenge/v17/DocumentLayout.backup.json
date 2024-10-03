@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\services\\reportingstructureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\reportingstructureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\resources\\employeeseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\resources\\employeeseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\services\\ireportingstructureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\ireportingstructureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\models\\reportingstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\models\\reportingstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\config\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\config\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\controllers\\reportingstructurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\controllers\\reportingstructurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\kenny\\desktop\\hackerman\\mindex-code-challenge\\codechallenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Config\\App.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Config\\App.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Config\\App.cs",
+              "RelativeToolTip": "CodeChallenge\\Config\\App.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:59:04.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportingStructureService.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\ReportingStructureService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\ReportingStructureService.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\ReportingStructureService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\ReportingStructureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:07:42.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportingStructure.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Models\\ReportingStructure.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Models\\ReportingStructure.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Models\\ReportingStructure.cs",
+              "RelativeToolTip": "CodeChallenge\\Models\\ReportingStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:16:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportingStructureService.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\IReportingStructureService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\IReportingStructureService.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\IReportingStructureService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\IReportingStructureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:35:42.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeSeedData.json",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\resources\\EmployeeSeedData.json",
+              "RelativeDocumentMoniker": "CodeChallenge\\resources\\EmployeeSeedData.json",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\resources\\EmployeeSeedData.json",
+              "RelativeToolTip": "CodeChallenge\\resources\\EmployeeSeedData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T01:49:09.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportingStructureController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Controllers\\ReportingStructureController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Controllers\\ReportingStructureController.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Controllers\\ReportingStructureController.cs",
+              "RelativeToolTip": "CodeChallenge\\Controllers\\ReportingStructureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:17:01.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:52:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CodeChallenge\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:36:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:22:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\Hackerman\\mindex-code-challenge\\CodeChallenge\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeChallenge\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:37:07.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
